@@ -1,1 +1,1 @@
-# BisimulationTestEquivalence
+# Bisimulation Test Equivalence
